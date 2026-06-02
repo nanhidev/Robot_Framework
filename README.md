@@ -1,2 +1,9 @@
-# Robot_Framework
-Added support for automatic generation of Robot Framework test scripts, resource files, locators, and reusable keywords to streamline automation development and improve productivity.
+# Robot Framework Automation
+
+## Installation
+
+pip install -r requirements.txt
+
+## Run Tests
+
+robot -d reports tests/
